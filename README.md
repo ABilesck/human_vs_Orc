@@ -1,2 +1,2 @@
-# human_vs_Orc
+# Humans_vs_orcs
  
